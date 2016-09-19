@@ -24,3 +24,5 @@ CMakeCache.txt
 *.log
 *.tlog
 build
+MyOpenCV.sublime-project
+MyOpenCV.sublime-workspace
